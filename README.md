@@ -1,2 +1,3 @@
 # NotExactlyScience
-My experiments about mathematics
+My experiments about science & mathematics
+Bayesian statistics and more
